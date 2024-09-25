@@ -11,12 +11,16 @@ sites:
     url: https://id.nuc.sh
   - name: Proxy
     url: https://prox.assie.io
+  - name: Forge
+    check: "tcp-ping"
+    url: 195.201.193.211
+    port: 25565
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # cname: demo.upptime.js.org
+  baseUrl: /status
   logoUrl: https://cdn.aio.sh/assie/assie-icon.png
   name: Upptime
   introTitle: "AIO Upptime."
