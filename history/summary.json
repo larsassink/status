@@ -40,17 +40,17 @@
     "url": "https://id.nuc.sh",
     "icon": "https://icons.duckduckgo.com/ip3/id.nuc.sh.ico",
     "slug": "aio-id",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "89.61%",
-    "uptimeWeek": "98.52%",
+    "uptimeDay": "89.60%",
+    "uptimeWeek": "98.51%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.57%",
-    "time": 747,
-    "timeDay": 868,
-    "timeWeek": 745,
-    "timeMonth": 747,
-    "timeYear": 747,
+    "time": 736,
+    "timeDay": 743,
+    "timeWeek": 707,
+    "timeMonth": 736,
+    "timeYear": 736,
     "dailyMinutesDown": {
       "2024-10-19": 150
     }
@@ -60,7 +60,7 @@
     "url": "https://prox.assie.io",
     "icon": "https://icons.duckduckgo.com/ip3/prox.assie.io.ico",
     "slug": "proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 466,
     "timeMonth": 469,
     "timeYear": 469,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-19": 0
+    }
   },
   {
     "name": "Forge",
@@ -79,11 +81,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "forge",
     "status": "up",
-    "uptime": "83.91%",
+    "uptime": "83.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "57.68%",
-    "uptimeMonth": "83.91%",
-    "uptimeYear": "83.91%",
+    "uptimeMonth": "83.92%",
+    "uptimeYear": "83.92%",
     "time": 117,
     "timeDay": 94,
     "timeWeek": 110,
