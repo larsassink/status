@@ -40,19 +40,19 @@
     "url": "https://id.nuc.sh",
     "icon": "https://icons.duckduckgo.com/ip3/id.nuc.sh.ico",
     "slug": "aio-id",
-    "status": "down",
-    "uptime": "99.57%",
-    "uptimeDay": "89.60%",
-    "uptimeWeek": "98.51%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.57%",
-    "time": 767,
-    "timeDay": 924,
-    "timeWeek": 804,
-    "timeMonth": 767,
-    "timeYear": 767,
+    "status": "up",
+    "uptime": "99.54%",
+    "uptimeDay": "89.00%",
+    "uptimeWeek": "98.43%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
+    "time": 764,
+    "timeDay": 887,
+    "timeWeek": 793,
+    "timeMonth": 764,
+    "timeYear": 764,
     "dailyMinutesDown": {
-      "2024-10-19": 150
+      "2024-10-19": 159
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/prox.assie.io.ico",
     "slug": "proxy",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 470,
     "timeDay": 409,
     "timeWeek": 468,
     "timeMonth": 470,
     "timeYear": 470,
     "dailyMinutesDown": {
-      "2024-10-19": 0
+      "2024-10-19": 9
     }
   },
   {
