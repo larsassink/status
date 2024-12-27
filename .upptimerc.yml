@@ -9,6 +9,10 @@ sites:
     url: https://assie.io
   - name: AIO | ID
     url: https://id.nuc.sh
+  - name: AIO | SSO
+    url: https://sso.aio.sh
+  - name: Registry
+    url: https://reg.aio.sh
   - name: Proxy
     url: https://prox.assie.io
   - name: Forge
