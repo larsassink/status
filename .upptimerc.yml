@@ -7,8 +7,6 @@ sites:
     url: https://aio.sh
   - name: ASSIE.IO
     url: https://assie.io
-  - name: ELASTICSEARCH
-    url: https://es-01.assie.cloud
   - name: KIBANA
     url: https://kib-01.assie.cloud
   - name: AIO - SSO
