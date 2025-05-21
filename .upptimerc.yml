@@ -7,8 +7,10 @@ sites:
     url: https://aio.sh
   - name: ASSIE.IO
     url: https://assie.io
-  - name: AIO - ID
-    url: https://id.nuc.sh
+  - name: ELASTICSEARCH
+    url: https://es-01.assie.cloud
+  - name: KIBANA
+    url: https://kib-01.assie.cloud
   - name: AIO - SSO
     url: https://sso.aio.sh
   - name: Registry
