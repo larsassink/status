@@ -7,18 +7,20 @@ sites:
     url: https://aio.sh
   - name: ASSIE.IO
     url: https://assie.io
-  - name: KIBANA
-    url: https://kib-01.assie.cloud
+  - name: GitLab
+    url: https://git.aio.sh
+  - name: Gitea
+    url: https://git.assie.tech
   - name: AIO - SSO
     url: https://sso.aio.sh
   - name: Registry
-    url: https://reg.aio.sh
+    url: https://npm.assie.tech
   - name: Proxy
     url: https://prox.assie.io
-  - name: Forge
-    check: "tcp-ping"
-    url: 195.201.193.211
-    port: 25565
+  # - name: Forge
+  #   check: "tcp-ping"
+  #   url: 195.201.193.211
+  #   port: 25565
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
