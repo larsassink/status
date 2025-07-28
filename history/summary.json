@@ -40,19 +40,19 @@
     "url": "https://git.aio.sh",
     "icon": "https://icons.duckduckgo.com/ip3/git.aio.sh.ico",
     "slug": "git-lab",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 676,
-    "timeDay": 485,
-    "timeWeek": 665,
-    "timeMonth": 676,
-    "timeYear": 676,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 699,
+    "timeDay": 640,
+    "timeWeek": 696,
+    "timeMonth": 699,
+    "timeYear": 699,
     "dailyMinutesDown": {
-      "2025-07-28": 0
+      "2025-07-28": 8
     }
   },
   {
