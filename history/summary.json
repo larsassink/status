@@ -6,18 +6,16 @@
     "slug": "aio-sh",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 353,
     "timeDay": 186,
     "timeWeek": 146,
     "timeMonth": 186,
     "timeYear": 353,
-    "dailyMinutesDown": {
-      "2025-08-02": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ASSIE.IO",
@@ -26,18 +24,16 @@
     "slug": "assie-io",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 444,
     "timeDay": 118,
     "timeWeek": 181,
     "timeMonth": 182,
     "timeYear": 444,
-    "dailyMinutesDown": {
-      "2025-08-02": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GitLab",
