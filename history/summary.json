@@ -4,11 +4,11 @@
     "url": "https://aio.sh",
     "icon": "https://icons.duckduckgo.com/ip3/aio.sh.ico",
     "slug": "aio-sh",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 342,
     "timeDay": 200,
@@ -16,7 +16,7 @@
     "timeMonth": 206,
     "timeYear": 342,
     "dailyMinutesDown": {
-      "2025-08-26": 9
+      "2025-08-26": 1
     }
   },
   {
@@ -24,11 +24,11 @@
     "url": "https://assie.io",
     "icon": "https://icons.duckduckgo.com/ip3/assie.io.ico",
     "slug": "assie-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 432,
     "timeDay": 216,
@@ -36,7 +36,7 @@
     "timeMonth": 276,
     "timeYear": 432,
     "dailyMinutesDown": {
-      "2025-08-26": 9
+      "2025-08-26": 0
     }
   },
   {
