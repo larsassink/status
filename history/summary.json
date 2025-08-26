@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.aio.sh.ico",
     "slug": "git-lab",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 787,
     "timeDay": 779,
     "timeWeek": 776,
     "timeMonth": 798,
     "timeYear": 787,
-    "dailyMinutesDown": {
-      "2025-08-25": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Gitea",
