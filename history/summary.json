@@ -4,36 +4,40 @@
     "url": "https://aio.sh",
     "icon": "https://icons.duckduckgo.com/ip3/aio.sh.ico",
     "slug": "aio-sh",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 340,
-    "timeDay": 216,
+    "timeDay": 186,
     "timeWeek": 221,
     "timeMonth": 204,
     "timeYear": 340,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-27": 1
+    }
   },
   {
     "name": "ASSIE.IO",
     "url": "https://assie.io",
     "icon": "https://icons.duckduckgo.com/ip3/assie.io.ico",
     "slug": "assie-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 430,
-    "timeDay": 202,
+    "timeDay": 213,
     "timeWeek": 432,
     "timeMonth": 274,
     "timeYear": 430,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-27": 0
+    }
   },
   {
     "name": "GitLab",
@@ -108,11 +112,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/npm.assie.tech.ico",
     "slug": "registry",
     "status": "up",
-    "uptime": "87.49%",
+    "uptime": "87.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.49%",
+    "uptimeYear": "87.50%",
     "time": 510,
     "timeDay": 465,
     "timeWeek": 524,
