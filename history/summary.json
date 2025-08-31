@@ -6,18 +6,16 @@
     "slug": "aio-sh",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 334,
+    "time": 333,
     "timeDay": 205,
     "timeWeek": 219,
     "timeMonth": 219,
-    "timeYear": 334,
-    "dailyMinutesDown": {
-      "2025-08-31": 11
-    }
+    "timeYear": 333,
+    "dailyMinutesDown": {}
   },
   {
     "name": "ASSIE.IO",
@@ -26,18 +24,16 @@
     "slug": "assie-io",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 416,
     "timeDay": 184,
     "timeWeek": 214,
     "timeMonth": 255,
     "timeYear": 416,
-    "dailyMinutesDown": {
-      "2025-08-31": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GitLab",
@@ -62,9 +58,9 @@
     "url": "https://git.assie.tech",
     "icon": "https://icons.duckduckgo.com/ip3/git.assie.tech.ico",
     "slug": "gitea",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -73,7 +69,9 @@
     "timeWeek": 458,
     "timeMonth": 498,
     "timeYear": 499,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-31": 0
+    }
   },
   {
     "name": "AIO - SSO",
@@ -112,11 +110,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/npm.assie.tech.ico",
     "slug": "registry",
     "status": "up",
-    "uptime": "87.70%",
+    "uptime": "87.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.70%",
+    "uptimeYear": "87.72%",
     "time": 510,
     "timeDay": 499,
     "timeWeek": 488,
