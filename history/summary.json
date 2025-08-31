@@ -4,10 +4,10 @@
     "url": "https://aio.sh",
     "icon": "https://icons.duckduckgo.com/ip3/aio.sh.ico",
     "slug": "aio-sh",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 333,
@@ -15,16 +15,18 @@
     "timeWeek": 219,
     "timeMonth": 219,
     "timeYear": 333,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-31": 1
+    }
   },
   {
     "name": "ASSIE.IO",
     "url": "https://assie.io",
     "icon": "https://icons.duckduckgo.com/ip3/assie.io.ico",
     "slug": "assie-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 214,
     "timeMonth": 255,
     "timeYear": 416,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-31": 0
+    }
   },
   {
     "name": "GitLab",
@@ -59,19 +63,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.assie.tech.ico",
     "slug": "gitea",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 492,
     "timeDay": 399,
     "timeWeek": 438,
     "timeMonth": 488,
     "timeYear": 492,
-    "dailyMinutesDown": {
-      "2025-08-31": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AIO - SSO",
